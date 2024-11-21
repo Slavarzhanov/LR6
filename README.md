@@ -3,50 +3,46 @@
 **Для начала создадим фаил в Githab:**
 
 
-![создание файла](image.png)
+![создание файла](https://github.com/Slavarzhanov/LR6/blob/report/photo/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%20%D0%B2%20%D0%B3%D0%B8%D1%82%D1%85%D0%B0%D0%B1%D0%B5.png)
 
 **До создания файла клонируем репозиторий:**
 
 
-![конирование репозитория](image.png)
+![конирование репозитория](https://github.com/Slavarzhanov/LR6/blob/report/photo/%D0%BA%D0%BB%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F.png)
 
-**Подтягиваем изменения с Githab**
+**Подтягиваем изменения с Githab и смотрим log**
 
 
-![подтягивание изменений](image.png)
+![подтягивание изменений](https://github.com/Slavarzhanov/LR6/blob/report/photo/%D0%BF%D0%BE%D0%B4%D1%82%D1%8F%D0%B3%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B8%20%D0%BB%D0%BE%D0%B3.png)
 
-### Пункты № 7 - 10 задания.
+### Пункты № 7 - 9 задания.
 **Смотрим какие у нас есть ветки и выполняем слияние и решаем возникший конфликт**
 
-![Просмотр веток и слияние](image.png)
+![Просмотр веток и слияние](https://github.com/Slavarzhanov/LR6/blob/report/photo/%D0%B2%D0%B5%D1%82%D0%BA%D0%B8%20%D0%B8%20%D1%81%D0%BB%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5%20%D1%81%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC.png)
 
 
-**После слияния не забываем удалить ветку**
+### Пункты № 10-13 задания
+**После слияния не забываем удалить ветку и изменяем наш файл**
 
 
-![удаление ветки](image.png)
+![удаление ветки](https://github.com/Slavarzhanov/LR6/blob/report/photo/%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B8%20%D0%BE%D1%82%D0%BA%D0%B0%D1%82.png)
 
-### Пункты № 11-13 задания
-**Изменению файла**
-
-
-![Изменение файла и создание комита](image.png)
 
 **Создаем комит и выполняем откат его и состояния файла**
 
 
-![Комит и его откат](image.png)
+![Комит и его откат](https://github.com/Slavarzhanov/LR6/blob/report/photo/%D0%BE%D1%82%D0%BA%D0%B0%D1%82%20-%202.png)
 
 ### Пункты № 14 - 15 задания
 **Создаем ветку и папку для фото**
 
 
-![Создание ветки и папки для фото](image.png)
+![Создание ветки и папки для фото](https://github.com/Slavarzhanov/LR6/blob/report/photo/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D1%82%D0%BA%D0%B8%20%D0%B8%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B8.png)
 
 **Переходим к оформлению README для этого создаю папку которая будет хранить фото работы и сохраняю изменения:**
 
 
-![Работа по оформлению README](image.png)
+![Работа по оформлению README](https://github.com/Slavarzhanov/LR6/blob/report/photo/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B2%20VSCode.png)
 
 ### Лог команд
 **Последовательность используемых команд:**
@@ -72,3 +68,4 @@ mkdir photo_laba
 
 ### История операций в форматированном виде
 
+![Отформатированый log](https://github.com/Slavarzhanov/LR6/blob/report/photo/%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%BE%D0%B3.png)
