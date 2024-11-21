@@ -63,7 +63,7 @@ cat file.txt
 git reset HEAD~1
 git status
 git checkout -- file.txt
-mkdir photo_laba
+mkdir photo
 ```
 
 ### История операций в форматированном виде
