@@ -4,16 +4,15 @@
 
 **Для начала создадим фаил в Githab:**
 
-![конирование репозитория](https://github.com/Slavarzhanov/LR6/blob/report/photo/%D0%BA%D0%BB%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F.png)
+![создание файла](https://github.com/Slavarzhanov/LR6/blob/report/photo/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%20%D0%B2%20%D0%B3%D0%B8%D1%82%D1%85%D0%B0%D0%B1%D0%B5.png)
 
 **До создания файла клонируем репозиторий:**
 
-![создание файла](https://github.com/Slavarzhanov/LR6/blob/report/photo/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%20%D0%B2%20%D0%B3%D0%B8%D1%82%D1%85%D0%B0%D0%B1%D0%B5.png)
+![подтягивание изменений](https://github.com/Slavarzhanov/LR6/blob/report/photo/%D0%BF%D0%BE%D0%B4%D1%82%D1%8F%D0%B3%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B8%20%D0%BB%D0%BE%D0%B3.png)
 
 **Подтягиваем изменения с Githab и смотрим log**
 
-
-![подтягивание изменений](https://github.com/Slavarzhanov/LR6/blob/report/photo/%D0%BF%D0%BE%D0%B4%D1%82%D1%8F%D0%B3%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B8%20%D0%BB%D0%BE%D0%B3.png)
+![конирование репозитория](https://github.com/Slavarzhanov/LR6/blob/report/photo/%D0%BA%D0%BB%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F.png)
 
 ### Пункты № 7 - 9 задания.
 **Смотрим какие у нас есть ветки и выполняем слияние и решаем возникший конфликт**
